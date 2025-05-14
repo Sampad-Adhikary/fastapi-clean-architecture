@@ -36,5 +36,8 @@ fastapi-clean-architecture
 │   └── __init__.py
 ├── .env
 ├── requirements.txt
+├── Dockerfile
+├── docker-compose.yaml
+├── .env.example
 └── README.md
 ```
